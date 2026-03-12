@@ -5,5 +5,5 @@ What is the total sales revenue for each month?
 How do sales vary across different store locations? 
 what is the average price/order per person Which products are the bestselling in terms of quantity and revenue? 
 How do sales vary by product category and type?
-<img width="3314" height="598" alt="image" src="https://github.com/user-attachments/assets/23ed862f-0aa1-42a8-b7b2-b4ce418a17fb" />
+
 
