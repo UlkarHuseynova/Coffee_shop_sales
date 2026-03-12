@@ -1,6 +1,6 @@
 # Coffee_shop_sales
-  How do sales vary by day of the week and hour of the day? <br>
-  Are there any peak times for sales activity? <br>
+  **How do sales vary by day of the week and hour of the day?** <br>
+  **Are there any peak times for sales activity?**<br>
   What is the total sales revenue for each month? <br>
   How do sales vary across different store locations? <br>
   What is the average price/order per person Which products are the bestselling in terms of quantity and revenue?<br> 
